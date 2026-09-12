@@ -5,7 +5,7 @@ This `Bash` script keeps you from running repetitive `Docker` commands when you 
 ## Install
 
 ```sh
-sudo curl -fsSL https://raw.githubusercontent.com/pouriyajamshidi/dlog/master/dlog.sh -o /usr/local/bin/dlog
+sudo curl -fsSL https://raw.githubusercontent.com/pouriyajamshidi/dlog/master/dlog.sh -o /usr/local/bin/dlog && \
 sudo chmod +x /usr/local/bin/dlog
 ```
 
